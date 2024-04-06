@@ -38,3 +38,7 @@ Things that I still wanted to do but app already found perfect real estate:
   - External proxy ZenRows https://www.zenrows.com/
   - Implement solution myself using solution from blog https://sangaline.com/post/advanced-web-scraping-tutorial/
 - Change MailService to be more configurable, right now it always use gmail SMTP
+
+## Licence
+
+No licence
