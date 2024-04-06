@@ -1,4 +1,4 @@
-# FlatScanner
+# FlatScannerApp
 
 ## Description
 
